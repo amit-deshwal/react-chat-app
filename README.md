@@ -1,6 +1,6 @@
 # Textelo (Chat-App)
 ## Deployed Site
-  [Textilo (Chat-App)](https://textilo-chat.netlify.app/ "Textilo (Chat-App)")
+  [Textelo (Chat-App)](https://textelo.netlify.app "Textelo (Chat-App)")
 
 ## Requirements
 - This is a minimalist chat app built using "socket-io" library, where you can chat with your friends to the same room.
