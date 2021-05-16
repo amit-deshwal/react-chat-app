@@ -14,7 +14,7 @@ const Chat = ({ location }) => {
   const [message, setMessage] = useState("");
   const [messages, setMessages] = useState([]);
   const [users, setUsers] = useState([]);
-  const ENDPOINT = process.env.ENDPOINT;
+  const ENDPOINT = "https://textilo-321.herokuapp.com/";
 
   useEffect(() => {
     const { name, room } = queryString.parse(location.search);
