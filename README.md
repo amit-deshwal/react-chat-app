@@ -1,4 +1,4 @@
-# Textilo (Chat-App)
+# Textelo (Chat-App)
 ## Deployed Site
   [Textilo (Chat-App)](https://textilo-chat.netlify.app/ "Textilo (Chat-App)")
 
